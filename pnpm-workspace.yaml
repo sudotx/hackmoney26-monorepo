@@ -1,5 +1,6 @@
 packages:
   - chrome-extension
+  - landing-page
   - pages/*
   - packages/*
   - tests/*
